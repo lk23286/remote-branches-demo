@@ -8,11 +8,11 @@
  .oooooooooooooooooooo&@@@@@@oooob.
 .ooooooooooooooooooooooo&&@@@@@ooob.
 doooooooooooooooooooooooooo&@@@@ooob
-doooooooooooooooooooooooooo&@@@oooob
-dooooooooooooooooooooooooo&@@@ooooob
-dooooooooooooooooooooooooo&@@oooooob
-`dooooooooooooooooooooooooo&@ooooob'
- `doooooooooooooooooooooooooooooob'
+doooooooooooooooooooooo
+doooooooooooooooooooo
+dooooooooooooooooo
+`dooooooooooooooooo
+ `doooooooooooooooooooooo
   `doooooooooooooooooooooooooooob'
    `doooooooooooooooooooooooooob'
     `doooooooooooooooooooooooob'
